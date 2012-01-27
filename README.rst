@@ -12,9 +12,9 @@ This code is the academic code that goes along the paper: ...
 
 This code is designed to be readable and correct, not fast. As such, you will
 probably want to rewrite some core sections in your favourite programming
-language. It is also extensively covered by a test suite. If you want a (much 
-faster and more complete) implementation in scala and java, please contact the 
-author.
+language. It is also extensively covered by a test suite that you can use as 
+a reference. If you want a (much faster and more complete) implementation in 
+scala and java, please contact the author.
 
 Quick start guide
 ------------------
