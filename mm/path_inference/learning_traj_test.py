@@ -50,8 +50,8 @@ def simple_traj3():
   """ Simple trajectory with large features, 
   breaks non log-based implementations.
   """
-  features = [ [ [0, 200] ],
-               [ [200, 0], [-100, 0] ],
+  features = [ [ [0., 200.] ],
+               [ [200., 0.], [-100., 0.] ],
              ]
   connections = [ [ (0, 0), (0, 1) ] ]
   traj = LearningTrajectory(features, connections)
